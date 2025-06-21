@@ -1,2 +1,3 @@
 this is test staging
 another line with git add cmd
+another line after running git commit cmd

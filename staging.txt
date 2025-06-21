@@ -1,0 +1,2 @@
+this is test staging
+another line with git add cmd
